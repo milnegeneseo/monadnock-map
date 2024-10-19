@@ -2,7 +2,7 @@
     "storymap": {
         "call_to_action": true,
         "call_to_action_text": "",
-        "map_as_image": true,
+        "map_as_image": false,
         "map_background_color": "",
         "map_type": "zoomify",
         "slides": [
@@ -40,7 +40,7 @@
                     "line": true,
                     "lon": -85.078125,
                     "use_custom_marker": true,
-                    "zoom": 4
+                    "zoom": 1
                 },
                 "media": {
                     "caption": "",
@@ -64,7 +64,7 @@
                     "line": true,
                     "lon": -37.96875,
                     "use_custom_marker": true,
-                    "zoom": 4
+                    "zoom": 1
                 },
                 "media": {
                     "caption": "",
@@ -88,7 +88,7 @@
                     "line": true,
                     "lon": -104.0625,
                     "use_custom_marker": true,
-                    "zoom": 4
+                    "zoom": 1
                 },
                 "media": {
                     "caption": "",
@@ -112,7 +112,7 @@
                     "line": true,
                     "lon": 34.453125,
                     "use_custom_marker": true,
-                    "zoom": 4
+                    "zoom": 1
                 },
                 "media": {
                     "caption": "",
