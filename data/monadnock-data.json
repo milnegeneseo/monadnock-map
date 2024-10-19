@@ -40,7 +40,7 @@
                     "line": false,
                     "lon": -85.078125,
                     "use_custom_marker": true,
-                    "zoom": 1
+                    "zoom": 12
                 },
                 "media": {
                     "caption": "",
@@ -64,7 +64,7 @@
                     "line": false,
                     "lon": -37.96875,
                     "use_custom_marker": true,
-                    "zoom": 1
+                    "zoom": 12
                 },
                 "media": {
                     "caption": "",
@@ -88,7 +88,7 @@
                     "line": false,
                     "lon": -104.0625,
                     "use_custom_marker": true,
-                    "zoom": 1
+                    "zoom": 12
                 },
                 "media": {
                     "caption": "",
@@ -112,7 +112,7 @@
                     "line": false,
                     "lon": 34.453125,
                     "use_custom_marker": true,
-                    "zoom": 1
+                    "zoom": 12
                 },
                 "media": {
                     "caption": "",
