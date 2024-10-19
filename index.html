@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Story Map</title></head>
+<body>
+    <div id="mapdiv" style="width: 100%; height: 800px;"></div>
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+<script type="text/javascript" src="https://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+<script>
+    var storymap_data = 'data/monadnock-map.json';
+    var storymap_options = {};
+    var storymap = new KLStoryMap.StoryMap('mapdiv', storymap_data, storymap_options);
+    window.onresize = function(event) {
+        storymap.updateDisplay();
+    }
+    </script>
+
+</body>
+</html>
