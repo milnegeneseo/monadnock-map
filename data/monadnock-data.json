@@ -40,7 +40,7 @@
                     "line": true,
                     "lon": -85.078125,
                     "use_custom_marker": true,
-                    "zoom": 8
+                    "zoom": 4
                 },
                 "media": {
                     "caption": "",
@@ -48,7 +48,7 @@
                     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mount_Monadnock_as_seen_from_Bald_Rock.jpg"
                 },
                 "text": {
-                    "headline": "The PEAK",
+                    "headline": "THE PEAK",
                     "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.<br>"
                 }
             },
@@ -64,7 +64,7 @@
                     "line": true,
                     "lon": -37.96875,
                     "use_custom_marker": true,
-                    "zoom": 8
+                    "zoom": 4
                 },
                 "media": {
                     "caption": "",
@@ -72,7 +72,7 @@
                     "url": "https://milnegeneseo.github.io/monadnock-map/images/RM_Gleason_IV.B.X.1918.17.Film.jpg"
                 },
                 "text": {
-                    "headline": "Another location on the map",
+                    "headline": "ANOTHER LOCATION ON THE MAP",
                     "text": "<div>Associate images can be map details, photos, or anything else we like.</div><div><br></div><div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.<br></div><br>"
                 }
             },
@@ -88,7 +88,7 @@
                     "line": true,
                     "lon": -104.0625,
                     "use_custom_marker": true,
-                    "zoom": 8
+                    "zoom": 4
                 },
                 "media": {
                     "caption": "",
@@ -112,7 +112,7 @@
                     "line": true,
                     "lon": 34.453125,
                     "use_custom_marker": true,
-                    "zoom": 8
+                    "zoom": 4
                 },
                 "media": {
                     "caption": "",
