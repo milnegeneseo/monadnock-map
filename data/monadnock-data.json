@@ -12,7 +12,7 @@
                 },
                 "date": "",
                 "location": {
-                    "line": false
+                    "line": true
                 },
                 "media": {
                     "caption": "",
@@ -37,10 +37,10 @@
                         48
                     ],
                     "lat": 26.43122806450644,
-                    "line": false,
+                    "line": true,
                     "lon": -85.078125,
                     "use_custom_marker": true,
-                    "zoom": 12
+                    "zoom": 8
                 },
                 "media": {
                     "caption": "",
@@ -61,10 +61,10 @@
                         48
                     ],
                     "lat": -15.961329081596647,
-                    "line": false,
+                    "line": true,
                     "lon": -37.96875,
                     "use_custom_marker": true,
-                    "zoom": 12
+                    "zoom": 8
                 },
                 "media": {
                     "caption": "",
@@ -85,10 +85,10 @@
                         48
                     ],
                     "lat": -61.60639637138627,
-                    "line": false,
+                    "line": true,
                     "lon": -104.0625,
                     "use_custom_marker": true,
-                    "zoom": 12
+                    "zoom": 8
                 },
                 "media": {
                     "caption": "",
@@ -109,10 +109,10 @@
                         48
                     ],
                     "lat": 61.270232790000634,
-                    "line": false,
+                    "line": true,
                     "lon": 34.453125,
                     "use_custom_marker": true,
-                    "zoom": 12
+                    "zoom": 8
                 },
                 "media": {
                     "caption": "",
