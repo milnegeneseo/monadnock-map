@@ -21,7 +21,7 @@
                 },
                 "text": {
                     "headline": "Thoreau's map of mt. monadnock",
-                    "text": "<div><p>This “sketch” of Mt. Monadnock is one of Henry David Thoreau's most interesting representations of the mountain in New Hampshire. It is, in fact, a combination of sketch and survey.</p><p>The sketch appears in Thoreau's Journal immediately following a page on which Thoreau describes his observations about visitors to the summit.</p><img alt='A page from Thoreaus Journal' src='https://github.com/milnegeneseo/monadnock-map/blob/8e4e1665e214e75a16941a270e87762215dd4a72/images/journal.jpg'><p>Yet more text</p></div>"
+                    "text": "<div><p>This “sketch” of Mt. Monadnock is one of Henry David Thoreau's most interesting representations of the mountain in New Hampshire. It is, in fact, a combination of sketch and survey.</p><p>The sketch appears in Thoreau's Journal immediately following a page on which Thoreau describes his observations about visitors to the summit.</p><img alt='A page from Thoreaus Journal' src='https://milnegeneseo.github.io/monadnock-map/images/journal.jpg'><p>Still more text</p></div>"
                 },
                 "type": "overview"
             },
