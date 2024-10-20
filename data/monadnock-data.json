@@ -20,90 +20,87 @@
                     "url": ""
                 },
                 "text": {
-                    "headline": "Thoreau's map of mt. monadnock",
-                    "text": "<div><p>This “sketch” of Mt. Monadnock is one of Henry David Thoreau's most interesting representations of the mountain in New Hampshire. It is, in fact, a combination of sketch and survey.</p><p>The sketch appears in Thoreau's Journal immediately following a page on which Thoreau describes his observations about visitors to the summit.</p><img alt='A page from Thoreaus Journal' src='https://milnegeneseo.github.io/monadnock-map/images/journal.jpg'><p>Still more text</p></div>"
+                    "headline": "THOREAU's SKETCH OF MOUNT MONADNOCK",
+                    "text": "<div><p>The \u201csketch\u201d of Mt. Monadnock at left is one of Henry David Thoreau\u2019s most interesting representations of the mountain in New Hampshire. It is, in fact, a combination sketch and survey.</p>\n<p>The sketch appears in Thoreau's Journal immediately following a page on which he describes his observations about visitors to the summit. <em>Scroll down to see this page (verso in the Journal) and the facing one (recto) containing Thoreau's map, which is inverted with respect to the text on the preceding page.</em></p>\n<p>Thoreau's map is much more than a simple freehand. Only a cartographer or skilled surveyor could execute this quality of workmanship. Owing to the compass bearings Thoreau took from the summit on August 8 and a linear measurement methodology he developed, the map's scale is true and the angles of its bearing lines are precise.</p>\n<img alt=\"A page from the Journal of HD Thoreau\" src=\"https://milnegeneseo.github.io/monadnock-map/images/journal.jpg\">\n<p><em>Page from Thoreau's Journal preceding his map of Mt. Monadnock. Image courtesy of the Morgan Library.</em></p>\n<img alt=\"Map by Thoreau as it appears in his Journal\" src=\"https://milnegeneseo.github.io/monadnock-map/images/map_original.jpg\">\n<p><em>Thoreau's map as it appears in his Journal, inverted with respect to the text preceding it. Image courtesy of the Morgan Library.</em></p>\n</div>"
                 },
                 "type": "overview"
             },
             {
-                "background": {
+                "date": "",
+                "text": {
+                    "headline": "TAKING MEASUREMENTS",
+                    "text": "From his experience as a surveyor, Thoreau knew how to use a compass in the field, but his map of Mt. Monadnock also shows his creative system for measuring distance.\n\n<blockquote>The basis of my map was the distance from the summit to the second camp, made by rudely casting a stone before. Pacing the distance of an easy cast, I found it about ten rods, and thirteen such stone\u2019s throws, or one hundred and thirty rods, carried me to the camp. As I had the course, from the summit, and from the camp, of the principal points, I could tell the rest nearly enough. It was about fifty rods from the summit to the ravine and eighty more to the camp. (H. D. Thoreau, <em>The Journal of Henry D. Thoreau</em>, XIV:39)\n</blockquote>\n\nAnd this is exactly how he drew the map in his journal. With the journal open to the blank right hand or recto page, he made his starting point the location where he stood  to take his bearings on August 8. Because of the footprint of his object, the mountain, he instinctively knew that the summit point could not be positioned in the center of the page. Beginning at a point just right of center, he entered the north-south lines, \u201cfaced\u201d south, measured S40E, and drew the bearing line a distance of one hundred thirty rods to \"2D Camp,\" with a scale of eighty rods to the inch. With the bearing line and position of that camp set on the paper, the other bearing lines, contours, trails, streams, and points of interest all fell into place."
+                },
+                "media": {
+                    "url": "",
+                    "credit": "",
+                    "caption": ""
+                },
+                "location": {
+                    "line": true,
+                    "lat": 26.43122806450644,
+                    "lon": -85.078125,
+                    "zoom": 1,
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
+                    "iconSize": [
+                        30,
+                        48
+                    ],
+                    "use_custom_marker": true
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
+                    "iconSize": [
+                        30,
+                        48
+                    ],
+                    "lat": -36.03133177633187,
+                    "line": true,
+                    "lon": -85.78125,
+                    "use_custom_marker": true,
+                    "zoom": 1
+                },
+                "media": {
+                    "caption": "View from Mt. Monadnock,  looking southeast.",
+                    "credit": "Flickr user <a href=\"https://www.flickr.com/photos/42919152@N04/\">Alvin Kho</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>",
+                    "url": "https://milnegeneseo.github.io/monadnock-map/images/kho_monadnock-view-se.jpg"
+                },
+                "text": {
+                    "headline": "LOOKING SOUTH",
+                    "text": "<p>Thoreau drew his map from his own perspective, looking south. He presumably took his bearings from this perspective as well. That's why his \"S\" for \"South\" appears at the top of the manuscript page (see detail below) rather than at the bottom as is customary in maps. The map that Thoreau included in his book <em>Walden</em> is similarly inverted to show the pond from the perspective of the house he built by the shore.</p>\n<img alt=\"detail of map as it appears in Thoreaus Journal oriented with south at top\" src=\"https://milnegeneseo.github.io/monadnock-map/images/map_detail_south.jpg\">"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
+                    "iconSize": [
+                        30,
+                        48
+                    ],
+                    "lat": -19.973348786110602,
+                    "line": true,
+                    "lon": -87.1875,
+                    "use_custom_marker": true,
+                    "zoom": 1
+                },
+                "media": {
+                    "caption": "Map detail showing where Thoreau has written \"Swamp\" (ink) and  \"Ravine\" (pencil). For ease of reading, the detail is oriented with North at top.",
+                    "credit": "",
                     "url": ""
                 },
-                "date": "",
-                "location": {
-                    "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
-                    "iconSize": [
-                        30,
-                        48
-                    ],
-                    "lat": 26.43122806450644,
-                    "line": true,
-                    "lon": -85.078125,
-                    "use_custom_marker": true,
-                    "zoom": 1
-                },
-                "media": {
-                    "caption": "",
-                    "credit": "",
-                    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mount_Monadnock_as_seen_from_Bald_Rock.jpg"
-                },
                 "text": {
-                    "headline": "THE PEAK",
-                    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.<br>"
+                    "headline": "FIRST CAMP",
+                    "text": "<p>Thoreau's marking \"1st Camp\" bears approximately S6E from the summit (\"Peak\" on the map.) An important feature not distinguishable on the printed map as it appears in the 1906 Torrey and Allen edition of Thoreau's collected writings, or in any other printed version, is the penciled word \u201cRavine\u201d inside Thoreau's marking of a \"Swamp.\" (See detail above, which shows the map in its north-at-top orientation for ease of reading.)</p>\n<p>While no map or book cites this ravine as a notable feature, there is no question about its presence when reaching the summit via the eastern approaches. On both the Pumpelly Trail and the White Dot Trail, visitors make a steep and rocky descent at about 2,800 feet prior to the final steep ascent up the rocks to the summit. A close look at Thoreau\u2019s map reveals a curved line to the right of the word \u201cPeak.\u201d This line is a mark of that ravine, and it begins where he wrote the word \u201cRavine.\u201d</p>\n\nThat designation is important because it establishes the location of Thoreau's first camp as being west of the stream that runs down the middle of the ravine and also south of the rocky cap\u2014most likely just off the Paradise Valley Trail. Immediately beside \u201c1st Camp,\u201d Thoreau drew a circle with a dotted line to mark the rocky mesa near the camp. Just to the west of the circle is a very small triangle, possibly representing the shape of the spruce lean-to in which Thoreau and his companions slept. In a letter to H. G. O. Blake, his companion on the 1858 trip to Monadnock, he referred to this site as \u201cthat memorable stone 'chunk yard,' in which we made our camp.\u201d"
                 }
             },
             {
                 "date": "",
                 "location": {
-                    "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
-                    "iconSize": [
-                        30,
-                        48
-                    ],
-                    "lat": -15.961329081596647,
-                    "line": true,
-                    "lon": -37.96875,
-                    "use_custom_marker": true,
-                    "zoom": 1
-                },
-                "media": {
-                    "caption": "",
-                    "credit": "",
-                    "url": "https://milnegeneseo.github.io/monadnock-map/images/RM_Gleason_IV.B.X.1918.17.Film.jpg"
-                },
-                "text": {
-                    "headline": "ANOTHER LOCATION ON THE MAP",
-                    "text": "<div>Associate images can be map details, photos, or anything else we like.</div><div><br></div><div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.<br></div><br>"
-                }
-            },
-            {
-                "date": "",
-                "location": {
-                    "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
-                    "iconSize": [
-                        30,
-                        48
-                    ],
-                    "lat": -61.60639637138627,
-                    "line": true,
-                    "lon": -104.0625,
-                    "use_custom_marker": true,
-                    "zoom": 1
-                },
-                "media": {
-                    "caption": "",
-                    "credit": "",
-                    "url": "https://milnegeneseo.github.io/monadnock-map/images/map_inverted.jpg"
-                },
-                "text": {
-                    "headline": "A THIRD LOCATION",
-                    "text": "<div>One option is to show a detail of the map portion in question.<br></div><div><br></div><div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.<br></div><br>"
-                }
-            },
-            {
-                "date": "",
-                "location": {
-                    "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
                     "iconSize": [
                         30,
                         48
@@ -117,11 +114,107 @@
                 "media": {
                     "caption": "",
                     "credit": "",
-                    "url": "https://hdl.huntington.org/digital/iiif/p16003coll16/508/800,3872,7000,1700/full/0/default.jpg"
+                    "url": ""
                 },
                 "text": {
-                    "headline": "a fourth location",
-                    "text": "<div><p>The panels on the right can also contain images if desired.</p><p><img alt=\"ms image from HM 924 the ms of Walden\" src=\"https://hdl.huntington.org/digital/iiif/p16003coll16/508/full/pct:30/0/default.jpg\"></p></div><br>"
+                    "headline": "NORTHEAST SPUR SUMMIT",
+                    "text": "Today, the Pumpelly trail runs over the location Thoreau has marked \u201cNE Spur Summit\u201d in ink. Along that ridge, the first high point or summit is now referred to as Town Line Peak. At 2,920 feet, it is the high point of Pumpelly Trail situated at the Jaffrey-Dublin town line. This ridge has three \u201csummits,\u201d each lower than the one preceding it. Thoreau has marked the second in pencil as \u201c2D summit.\u201d\n\nTo the south of \"NE Spur summit,\" Thoreau has indicated the presence of two swamps. By the largest of these he has written, in ink, \u201cNE Swamp.\u201d Today, that swamp is known as \u201cThoreau Bog.\u201d A line, first dotted and then solid, runs from that swamp north towards the village of Dublin (not indicated on the map). The name of that stream is Mountain Brook. The smaller swamp is on the southern side of the ridge and is marked but not labeled. From that swamp a runs a line to the southeast representing Ark Brook."
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
+                    "iconSize": [
+                        30,
+                        48
+                    ],
+                    "lat": -51.17934297928927,
+                    "line": true,
+                    "lon": -42.890625,
+                    "use_custom_marker": true,
+                    "zoom": 1
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "MEADS BROOK",
+                    "text": "Two other streams are also noted on the map. In the southeast quadrant, A solid inked line runs from the ravine and the swamps in a southeasterly direction. The name of that stream is Meads Brook, and it is most likely the stream for which Thoreau wrote that he wanted to observe its source on his next visit (see <em>Journal</em>, XIV:52).\n\n[The relevant Journal excerpt could be included here.]"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "FASSETT BROOK",
+                    "text": "In the southwest quadrant, west of where Thoreau has marked \u201cSouth Spur Brow\" in ink (the location is now referred to as \u201cPoint Surprise\u201d) a solid line runs north-south with a small bend at the top. That solid line represents Fassett Brook. It runs off the mountain south to the Troy Reservoir and thence to Perkins Pond."
+                },
+                "media": {
+                    "url": "",
+                    "credit": "",
+                    "caption": ""
+                },
+                "location": {
+                    "line": true,
+                    "lat": -55.77657301866769,
+                    "lon": -104.0625,
+                    "zoom": 1,
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
+                    "iconSize": [
+                        30,
+                        48
+                    ],
+                    "use_custom_marker": true
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "PASSING THROUGH THE PLATEAU",
+                    "text": "From \"2D Camp,\" a dotted line runs to the northeast towards \u201cNE Swamp\u201d and \u201cNE Spur Summit.\u201d The line marks Thoreau's path  through the area he called \u201cthe plateau.\u201d It crosses the high point of the eastern spur, which Thoreau did not name or identify other than to write that it was where he would walk each morning to view the sunrise."
+                },
+                "media": {
+                    "url": "",
+                    "credit": "",
+                    "caption": ""
+                },
+                "location": {
+                    "line": true,
+                    "lat": -12.554563528593656,
+                    "lon": -30.937499999999996,
+                    "zoom": 1,
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
+                    "iconSize": [
+                        30,
+                        48
+                    ],
+                    "use_custom_marker": true
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "PARADISE VALLEY TRAIL",
+                    "text": "Passing between the S45W and the S5W bearing lines (in the southwest corner of the map), Thoreau drew a dotted line in ink crossing Fassett Brook and continuing towards \"1st Camp.\" The line marks what is now called the \"Paradise Valley Trail.\" It passes \"1st Camp\" and continues through the \u201cRavine\u201d and the \u201cswamp,\u201d winding its way to the summit. This is the trail Thoreau forged from the base of the mountain all the way to the \u201cPeak.\u201d"
+                },
+                "media": {
+                    "url": "https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg",
+                    "credit": "<a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>",
+                    "caption": "Monadnock summit"
+                },
+                "location": {
+                    "line": true,
+                    "lat": -46.07323062540835,
+                    "lon": -126.5625,
+                    "zoom": 3,
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
+                    "iconSize": [
+                        30,
+                        48
+                    ],
+                    "use_custom_marker": true
                 }
             }
         ],
