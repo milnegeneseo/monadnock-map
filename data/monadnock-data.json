@@ -64,13 +64,14 @@
                     "zoom": 1
                 },
                 "media": {
-                    "caption": "View from Mt. Monadnock,  looking southeast.",
-                    "credit": "Flickr user <a href=\"https://www.flickr.com/photos/42919152@N04/\">Alvin Kho</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>",
-                    "url": "https://milnegeneseo.github.io/monadnock-map/images/kho_monadnock-view-se.jpg"
+                    "caption": "Detail of map as it appears in Thoreaus Journal, oriented with South at top",
+                    "credit": "",
+                    "url": "https://milnegeneseo.github.io/monadnock-map/images/map_detail_south.jpg",
+                    "_comment": "Not used: https://milnegeneseo.github.io/monadnock-map/images/kho_monadnock-view-se.jpg, View from Mt. Monadnock, looking southeast. Flickr user <a href=\"https://www.flickr.com/photos/42919152@N04/\">Alvin Kho</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>"
                 },
                 "text": {
                     "headline": "LOOKING SOUTH",
-                    "text": "<p>Thoreau drew his map from his own perspective, looking south. He presumably took his bearings from this perspective as well. That's why his \"S\" for \"South\" appears at the top of the manuscript page (see detail below) rather than at the bottom as is customary in maps. The map that Thoreau included in his book <em>Walden</em> is similarly inverted to show the pond from the perspective of the house he built by the shore.</p>\n<img alt=\"detail of map as it appears in Thoreaus Journal oriented with south at top\" src=\"https://milnegeneseo.github.io/monadnock-map/images/map_detail_south.jpg\">"
+                    "text": "<p>Thoreau drew his map from his own perspective, looking south. He presumably took his bearings from this perspective as well. That's why his \"S\" for \"South\" appears at the top of the manuscript page (see detail below) rather than at the bottom as is customary in maps. The map that Thoreau included in his book <em>Walden</em> is similarly inverted to show the pond from the perspective of the house he built by the shore.</p>"
                 }
             },
             {
@@ -88,7 +89,7 @@
                     "zoom": 1
                 },
                 "media": {
-                    "caption": "Map detail showing where Thoreau has written \"Swamp\" (ink) and  \"Ravine\" (pencil). For ease of reading, the detail is oriented with North at top.",
+                    "caption": "",
                     "credit": "",
                     "url": ""
                 },
@@ -200,9 +201,10 @@
                     "text": "Passing between the S45W and the S5W bearing lines (in the southwest corner of the map), Thoreau drew a dotted line in ink crossing Fassett Brook and continuing towards \"1st Camp.\" The line marks what is now called the \"Paradise Valley Trail.\" It passes \"1st Camp\" and continues through the \u201cRavine\u201d and the \u201cswamp,\u201d winding its way to the summit. This is the trail Thoreau forged from the base of the mountain all the way to the \u201cPeak.\u201d"
                 },
                 "media": {
-                    "url": "https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg",
-                    "credit": "<a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>",
-                    "caption": "Monadnock summit"
+                    "url": "",
+                    "credit": "",
+                    "caption": "",
+                    "_comment": "Not used: https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg, <a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>, Monadnock summit"
                 },
                 "location": {
                     "line": true,
