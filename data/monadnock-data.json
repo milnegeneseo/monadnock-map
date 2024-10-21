@@ -27,30 +27,6 @@
             },
             {
                 "date": "",
-                "text": {
-                    "headline": "TAKING MEASUREMENTS",
-                    "text": "From his experience as a surveyor, Thoreau knew how to use a compass in the field, but his map of Mt. Monadnock also shows his creative system for measuring distance.\n\n<blockquote>The basis of my map was the distance from the summit to the second camp, made by rudely casting a stone before. Pacing the distance of an easy cast, I found it about ten rods, and thirteen such stone\u2019s throws, or one hundred and thirty rods, carried me to the camp. As I had the course, from the summit, and from the camp, of the principal points, I could tell the rest nearly enough. It was about fifty rods from the summit to the ravine and eighty more to the camp. (H. D. Thoreau, <em>The Journal of Henry D. Thoreau</em>, XIV:39)\n</blockquote>\n\nWith his Journal open to the still blank recto page, Thoreau made his starting point the location where he stood to take his bearings on August 8, marked \"Peak\" on the map. Because of the mountain's footprint, he instinctively knew that the summit point should not be positioned in the center of the page. Beginning at a point just right of center, he entered the north-south lines, \u201cfaced\u201d south, measured S40E, and drew the bearing line a distance of 130 rods to \"2D Camp,\" with a scale of 80 rods to the inch. With the bearing line and position of that camp set on the paper, the other bearing lines, contours, trails, streams, and points of interest all fell into place."
-                },
-                "media": {
-                    "url": "",
-                    "credit": "",
-                    "caption": ""
-                },
-                "location": {
-                    "line": true,
-                    "lat": 26.43122806450644,
-                    "lon": -85.078125,
-                    "zoom": 1,
-                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
-                    "iconSize": [
-                        30,
-                        48
-                    ],
-                    "use_custom_marker": true
-                }
-            },
-            {
-                "date": "",
                 "location": {
                     "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
                     "iconSize": [
@@ -72,6 +48,30 @@
                 "text": {
                     "headline": "A MATTER OF PERSPECTIVE",
                     "text": "<p>Thoreau drew his map so that, with the Journal volume right-side up, the map reflects his own perspective at the summit, looking south. Consequently, his \"S\" for \"South\" appears at the top of the manuscript page (see detail below) rather than at the bottom as is customary in maps. The map that Thoreau included in his book <em>Walden</em> is similarly inverted to show the pond from the perspective of the house he built by the shore. (Scroll down to see it.)</p><p>However, the text on Thoreau's Monadnock map, unlike that on his map of Walden Pond, can only be read by rotating the Journal volume to put north at the top, as has been done for this tour.</p><p><img src=\"https://milnegeneseo.github.io/monadnock-map/images/map_detail_south.jpg\" alt=\"Detail of map as it appears in Thoreaus Journal, oriented with South at top\" /><br><em>Detail of map as it appears in Thoreaus Journal, oriented with South at top.</em></p><p style=\"text-align: center\"><img src=\"https://commons.digitalthoreau.org/thoreauwalden/wp-content/uploads/sites/8/2013/12/walden_pond_map.jpg\" alt=\"Map of Walden Pond drawn by Thoreau\" /><br><em>Thoreau's map of Walden Pond, drawn from the perspective of his house (marked \"House\" at lower right). Note the arrow pointing downwards (northwards) labeled \"True Meridian.\"</em></p>"
+                }
+            },
+            {
+                "date": "",
+                "text": {
+                    "headline": "TAKING MEASUREMENTS",
+                    "text": "From his experience as a surveyor, Thoreau knew how to use a compass in the field, but his map of Mt. Monadnock also shows his creative system for measuring distance.\n\n<blockquote>The basis of my map was the distance from the summit to the second camp, made by rudely casting a stone before. Pacing the distance of an easy cast, I found it about ten rods, and thirteen such stone\u2019s throws, or one hundred and thirty rods, carried me to the camp. As I had the course, from the summit, and from the camp, of the principal points, I could tell the rest nearly enough. It was about fifty rods from the summit to the ravine and eighty more to the camp. (H. D. Thoreau, <em>The Journal of Henry D. Thoreau</em>, XIV:39)\n</blockquote>\n\nWith his Journal open to the still blank recto page, Thoreau made his starting point the location where he stood to take his bearings on August 8, marked \"Peak\" on the map. Because of the mountain's footprint, he knew that the summit point should not be positioned in the center of the page. Beginning at a point just right of center, he entered the north-south lines, \u201cfaced\u201d south, measured S40E, and drew the bearing line a distance of 130 rods to \"2D Camp,\" with a scale of 80 rods to the inch, at some point noting the scale near the map's bottom right corner (when viewed with north at top). With the bearing line and position of that camp set on the paper, the other bearing lines, contours, trails, streams, and points of interest all fell into place."
+                },
+                "media": {
+                    "url": "",
+                    "credit": "",
+                    "caption": ""
+                },
+                "location": {
+                    "line": true,
+                    "lat": 26.43122806450644,
+                    "lon": -85.078125,
+                    "zoom": 1,
+                    "icon": "//uploads.knightlab.com/storymapjs/0ee0c11a1a47fd7812fc1465b5739e7c/monadnock-map/_images/pin.png",
+                    "iconSize": [
+                        30,
+                        48
+                    ],
+                    "use_custom_marker": true
                 }
             },
             {
