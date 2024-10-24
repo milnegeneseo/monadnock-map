@@ -1,8 +1,9 @@
 {
     "width": 1280,
-    "height": 800,               
-    "font_css": "",              
+    "height": 900,               
+    "font_css": "stock:amatic-andika",              
     "calculate_zoom": "true",
+    "show_history_line": "false",
     "storymap": {
         "call_to_action": true,
         "call_to_action_text": "",
