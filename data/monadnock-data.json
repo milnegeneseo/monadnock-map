@@ -1,4 +1,8 @@
 {
+    "width": 1280,
+    "height": 800,               
+    "font_css": "",              
+    "calculate_zoom": "true",
     "storymap": {
         "call_to_action": true,
         "call_to_action_text": "",
