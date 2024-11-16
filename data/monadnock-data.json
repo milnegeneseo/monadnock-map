@@ -71,8 +71,8 @@
                     "zoom": 1,
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
-                        30,
-                        48
+                        15,
+                        24
                     ],
                     "use_custom_marker": true
                 }
@@ -82,8 +82,8 @@
                 "location": {
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
-                        30,
-                        48
+                        15,
+                        24
                     ],
                     "lat": -19.973348786110602,
                     "line": true,
@@ -106,8 +106,8 @@
                 "location": {
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
-                        30,
-                        48
+                        15,
+                        24
                     ],
                     "lat": 61.270232790000634,
                     "line": true,
@@ -130,8 +130,8 @@
                 "location": {
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
-                        30,
-                        48
+                        15,
+                        24
                     ],
                     "lat": -51.17934297928927,
                     "line": true,
@@ -167,8 +167,8 @@
                     "zoom": 1,
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
-                        30,
-                        48
+                        15,
+                        24
                     ],
                     "use_custom_marker": true
                 }
@@ -191,8 +191,8 @@
                     "zoom": 1,
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
-                        30,
-                        48
+                        15,
+                        24
                     ],
                     "use_custom_marker": true
                 }
@@ -216,8 +216,8 @@
                     "zoom": 3,
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
-                        30,
-                        48
+                        15,
+                        24
                     ],
                     "use_custom_marker": true
                 }
