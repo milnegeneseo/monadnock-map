@@ -43,7 +43,7 @@
                     "line": true,
                     "lat": 26.43122806450644,
                     "lon": -85.078125,
-                    "zoom": 1,
+                    "zoom": 3,
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
                         15,
