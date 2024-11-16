@@ -43,7 +43,7 @@
                     "line": true,
                     "lat": 26.43122806450644,
                     "lon": -85.078125,
-                    "zoom": 3,
+                    "zoom": 1,
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
                         15,
@@ -179,9 +179,9 @@
                     "text": "<p>Passing between the S45W and the S5W bearing lines (in the southwest corner of the map), Thoreau drew a dotted line in ink crossing Fassett Brook and continuing towards <q>1st Camp.</q> The line marks what is now called the <q>Paradise Valley Trail.</q> It passes <q>1st Camp</q> and continues through the \u201cRavine\u201d and the \u201cswamp,\u201d winding its way to the summit. This is the trail Thoreau forged from the base of the mountain all the way to the \u201cPeak.\u201d</p><p style=\"text-align: center\"><img src=\"https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg\" alt=\"Monadnock summit\" /><em><a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>, Monadnock summit</em></p>"
                 },
                 "media": {
-                    "url": "",
-                    "credit": "",
-                    "caption": "",
+                    "url": "https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg",
+                    "credit": "<a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>",
+                    "caption": "Monadnock summit",
                     "_comment": "Not used: https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg, <a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>, Monadnock summit"
                 },
                 "location": {
