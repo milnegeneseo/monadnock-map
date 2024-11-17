@@ -128,7 +128,7 @@
                 "date": "",
                 "text": {
                     "headline": "FASSETT BROOK",
-                    "text": "In the southwest quadrant, west of where Thoreau has marked <q>South Spur Brow</q> in ink (the location is now referred to as \u201cPoint Surprise\u201d) a solid line runs north-south with a small bend at the top. That solid line represents Fassett Brook. It runs off the mountain south to the Troy Reservoir and thence to Perkins Pond."
+                    "text": "In the southwest quadrant, west of where Thoreau has marked <q>South Spur Brow</q> in ink (the location is now referred to as <q>Point Surprise</q> a solid line runs north-south with a small bend at the top. That solid line represents Fassett Brook. It runs off the mountain south to the Troy Reservoir and thence to Perkins Pond."
                 },
                 "media": {
                     "url": "",
@@ -137,8 +137,8 @@
                 },
                 "location": {
                     "line": true,
-                    "lat": -55.77657301866769,
-                    "lon": -104.0625,
+                    "lat": -52.05249047600098,
+                    "lon": -108.98437,
                     "zoom": 4,
                     "icon": "https://milnegeneseo.github.io/monadnock-map/images/pin.png",
                     "iconSize": [
