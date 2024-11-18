@@ -73,7 +73,7 @@
                 },
                 "text": {
                     "headline": "FIRST CAMP",
-                    "text": "<p>From left to to right we see Thoreau's bearing line labeled <q>S5W,</q> his marking for South (<q>S,</q> and a dotted circle with a point at its center and a small triangle to the left (west) of it, labeled <q>1st Camp.</q> The camp, then, would have been approximately S6E from the summit.</p><p>The dotted circle and point mark the rocky mesa near the camp. The triangle may represent the spruce lean-to in which Thoreau slept. In a letter to H. G. O. Blake, his companion on his previous, 1858, trip to Monadnock, he referred to this site as <q>that memorable stone 'chunk yard,' in which we made our camp.</q></p><p>An important feature not distinguishable on the printed map as it appears in Houghton Mifflin's 1906 edition of Thoreau's collected writings, or in any other printed version, is the penciled word <q>Ravine</q> inside Thoreau's ink label <q>Swamp.</q> While no map or book cites this ravine as a notable feature, there is no question about its presence when reaching the summit via the eastern approaches. On both the Pumpelly Trail and the White Dot Trail, visitors make a steep and rocky descent at about 2,800 feet prior to the final steep ascent up the rocks to the summit.</p><p>The curved line to the right of the word extending northeast from the end of the word <q>Ravine</q>, then curving westward as it passes <q>Peak</q> (see detail below), marks the ravine itself. That marking is important because it establishes the location of Thoreau's first camp as being west of the stream that runs down the middle of the ravine and also south of the rocky cap\u2014most likely just off the Paradise Valley Trail.<div style=\"margin: auto; width: 80%;\"><img src=\"https://milnegeneseo.github.io/monadnock-map/images/map_detail_ravine_line.jpg\" alt=\"Map detail showing lilne marking a ravine\"></div></p>"
+                    "text": "<p>From left to to right we see Thoreau's bearing line labeled <q>S5W,</q> his marking for South (<q>S,</q> and a dotted circle with a point at its center and a small triangle to the left (west) of it, labeled <q>1st Camp.</q> The camp, then, would have been approximately S6E from the summit.</p><p>The dotted circle and point mark the rocky mesa near the camp. The triangle may represent the spruce lean-to in which Thoreau slept. In a letter to H. G. O. Blake, his companion on his previous, 1858, trip to Monadnock, he referred to this site as <q>that memorable stone 'chunk yard,' in which we made our camp.</q></p><p>An important feature not distinguishable on the printed map as it appears in Houghton Mifflin's 1906 edition of Thoreau's collected writings, or in any other printed version, is the penciled word <q>Ravine</q> inside Thoreau's ink label <q>Swamp.</q> While no map or book cites this ravine as a notable feature, there is no question about its presence when reaching the summit via the eastern approaches. On both the Pumpelly Trail and the White Dot Trail, visitors make a steep and rocky descent at about 2,800 feet prior to the final steep ascent up the rocks to the summit.</p><p>The curved line to the right of the word extending northeast from the end of the word <q>Ravine</q>, then curving westward as it passes <q>Peak</q> (see detail below), marks the ravine itself. That marking is important because it establishes the location of Thoreau's first camp as being west of the stream that runs down the middle of the ravine and also south of the rocky cap\u2014most likely just off the Paradise Valley Trail.<div style=\"margin: auto; width: 80%;\"><img src=\"https://milnegeneseo.github.io/monadnock-map/images/map_detail_ravine_line.jpg\" alt=\"Map detail showing line marking a ravine\"></div></p>"
                 }
             },
             {
@@ -131,9 +131,9 @@
                     "text": "In the southwest quadrant, west of where Thoreau has marked <q>South Spur Brow</q> in ink (the location is now referred to as <q>Point Surprise</q>) a solid line runs north-south with a small bend at the top. That solid line represents Fassett Brook. It runs off the mountain south to the Troy Reservoir and thence to Perkins Pond."
                 },
                 "media": {
-                    "url": "https://live.staticflickr.com/58/218222409_1f0ba4c128_o.jpg",
+                    "url": "https://live.staticflickr.com/107/265525729_9c6d021e9c_o.jpg",
                     "credit": "",
-                    "caption": "This is a placeholder image for one of Meads Brook"
+                    "caption": "This is a placeholder image for one of Fassett Brook"
                 },
                 "location": {
                     "line": true,
@@ -176,13 +176,12 @@
                 "date": "",
                 "text": {
                     "headline": "PATH TO THE SUMMIT",
-                    "text": "<p>Passing between the S45W and the S5W bearing lines (in the southwest corner of the map), Thoreau drew a dotted line in ink crossing Fassett Brook and continuing towards <q>1st Camp.</q> The line marks what is now called the <q>Paradise Valley Trail.</q> It passes <q>1st Camp</q> and continues through the <q>Ravine</q> and the <q>swamp,</q> winding its way to the summit. This is the trail Thoreau forged from the base of the mountain all the way to the <q>Peak.</q></p>"
+                    "text": "<p>Passing between the S45W and the S5W bearing lines (in the southwest corner of the map), Thoreau drew a dotted line in ink crossing Fassett Brook and continuing towards <q>1st Camp.</q> The line marks what is now called the <q>Paradise Valley Trail.</q> It passes <q>1st Camp</q> and continues through the <q>Ravine</q> and the <q>swamp,</q> winding its way to the summit. (See map detail below.) This is the trail Thoreau forged from the base of the mountain all the way to the <q>Peak.</q><div style=\"margin: auto; width: 80%;\"><img src=\"https://milnegeneseo.github.io/monadnock-map/images/path_to_peak.jpg\" alt=\"Map detail showing Thoreau's path to the summit. The dotted line begins at lower left and travels northeast past Thoreau's 1st camp and through the ravine on its way to the summit.\"></div></p>"
                 },
                 "media": {
                     "url": "https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg",
                     "credit": "<a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>",
-                    "caption": "Monadnock summit",
-                    "_comment": "Not used: https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg, <a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>, Monadnock summit"
+                    "caption": "Monadnock summit"
                 },
                 "location": {
                     "line": true,
