@@ -32,12 +32,12 @@
                 "date": "",
                 "text": {
                     "headline": "TAKING MEASUREMENTS",
-                    "text": "<blockquote>The basis of my map was the distance from the summit to the second camp, made by rudely casting a stone before. Pacing the distance of an easy cast, I found it about ten rods, and thirteen such stone\u2019s throws, or one hundred and thirty rods, carried me to the camp. As I had the course, from the summit, and from the camp, of the principal points, I could tell the rest nearly enough. It was about fifty rods from the summit to the ravine and eighty more to the camp. (H. D. Thoreau, <em>The Journal of Henry D. Thoreau</em>, XIV:39)</blockquote><p> On the map, Thoreau has drawn a bearing line from the summit (labeled <q>Peak</q>) 130 rods southeast towards the location marked <q>2D Camp,</q> labeling the line <q>S40E</q>. (At lower right on the map, he's indicated that the map's scale is <q>80 rods to the inch.</q>)</p>"
+                    "text": "<blockquote>The basis of my map was the distance from the summit to the second camp, made by rudely casting a stone before. Pacing the distance of an easy cast, I found it about ten rods, and thirteen such stone\u2019s throws, or one hundred and thirty rods, carried me to the camp. As I had the course, from the summit, and from the camp, of the principal points, I could tell the rest nearly enough. It was about fifty rods from the summit to the ravine and eighty more to the camp. (H. D. Thoreau, <em>The Journal of Henry D. Thoreau</em>, XIV:39)</blockquote><p> On the map, Thoreau has drawn a bearing line from the summit (labeled <q>Peak</q>) 130 rods southeast towards the location marked <q>2D Camp,</q> labeling the line <q>S40E</q>. (At lower right on the map, he's indicated that the map's scale is <q>80 rods to an inch.</q>)</p>"
                 },
                 "media": {
                     "url": "https://milnegeneseo.github.io/monadnock-map/images/map_scale.jpg",
                     "credit": "",
-                    "caption": "Thoreau indicates the map's scale&mdash;<q>scale of 80 rods to the inch</q>&mdash;at the lower right of the page (when North is at top)"
+                    "caption": "Thoreau indicates the map's scale&mdash;<q>scale of 80 rods to an inch</q>&mdash;at the lower right of the page (when North is at top)"
                 },
                 "location": {
                     "line": true,
