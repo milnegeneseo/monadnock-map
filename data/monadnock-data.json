@@ -67,7 +67,7 @@
                     "zoom": 4
                 },
                 "media": {
-                    "caption": "The site of Thoreau's first camp.",
+                    "caption": "The site of Thoreau's first camp",
                     "credit": "Bob Young",
                     "url": "https://milnegeneseo.github.io/monadnock-map/images/Camp_1_Chunk_Yard.JPG"
                 },
@@ -91,9 +91,9 @@
                     "zoom": 4
                 },
                 "media": {
-                    "caption": "The summit in mid-March. <q>Pumpelly</q> has been written on one of the rocks.",
-                    "credit": "",
-                    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Monadnock_NH_Winter_Summit.jpg"
+                    "caption": "Thoreau's Northeast Spur Summit, now referred to as Town Line Peak.",
+                    "credit": "Bob Young",
+                    "url": "https://milnegeneseo.github.io/monadnock-map/images/Pumpelly_Ridge_NE_Summit_Spur_or_Town_Line_Peak.JPG"
                 },
                 "text": {
                     "headline": "NORTHEAST SPUR SUMMIT",
@@ -131,9 +131,9 @@
                     "text": "In the southwest quadrant, west of where Thoreau has marked <q>South Spur's Brow</q> in pencil (the location is now referred to as Point Surprise) a solid inked line runs north-south with a small bend at the top. That solid line represents Fassett Brook. It runs off the mountain south to the Troy Reservoir and thence to Perkins Pond."
                 },
                 "media": {
-                    "url": "https://live.staticflickr.com/107/265525729_9c6d021e9c_o.jpg",
-                    "credit": "",
-                    "caption": "This is a placeholder image for one of Fassett Brook"
+                    "url": "https://milnegeneseo.github.io/monadnock-map/images/Fassett_Brook.JPG",
+                    "credit": "Bob Young",
+                    "caption": "Fassett Brook"
                 },
                 "location": {
                     "line": true,
@@ -179,9 +179,9 @@
                     "text": "<p>Passing between the S45W and the S5W bearing lines (in the southwest corner of the map), Thoreau drew a dotted line in pencil that is reinforced in ink crossing Fassett Brook and continuing towards <q>1st camp.</q> The line marks what is now called the <q>Paradise Valley Trail.</q> It passes <q>1st camp</q> and continues through the features labeled <q>Ravine</q> and <q>Swamp,</q> winding its way to the summit. This is the trail Thoreau forged from the base of the mountain all the way to the <q>Peak.</q></p>"
                 },
                 "media": {
-                    "url": "https://milnegeneseo.github.io/monadnock-map/images/monadnock_summit.jpg",
-                    "credit": "<a href=\"https://www.flickr.com/photos/scottcwebster/\">Flickr user Scott</a>,  <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">CC BY-NC-ND</a>",
-                    "caption": "Monadnock summit"
+                    "url": "https://milnegeneseo.github.io/monadnock-map/images/path_to_peak.jpg",
+                    "credit": "Bob Young",
+                    "caption": "Path to the summit"
                 },
                 "location": {
                     "line": true,
