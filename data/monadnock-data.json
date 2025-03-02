@@ -157,7 +157,7 @@
                 "media": {
                     "url": "https://milnegeneseo.github.io/monadnock-map/images/Thoreau_Bog.JPG",
                     "credit": "Bob Young",
-                    "caption": "The Northeast Swamp, aka &lquo;Thoreau Bog,&rquo; as it appears today"
+                    "caption": "The Northeast Swamp, aka <q>Thoreau Bog,</q> as it appears today"
                 },
                 "location": {
                     "line": true,
